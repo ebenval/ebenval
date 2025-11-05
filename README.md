@@ -6,25 +6,26 @@
   <meta name="description" content="Perfil profesional de Evaristo Benitez - Desarrollador Web Junior">
   <title>Evaristo Benitez | Desarrollador Web</title>
   <link rel="stylesheet" href="css/style.css" />
-  <link rel="icon" href="https://github.githubassets.com/favicons/favicon.png" />
 </head>
 
 <body>
   <header class="header fade-in">
-    <img src="https://avatars.githubusercontent.com/your-github-username" alt="Foto de Evaristo Benitez" class="avatar">
+    <img src="https://avatars.githubusercontent.com/tu-usuario-github" alt="Foto de Evaristo Benitez" class="avatar">
     <h1>Evaristo Benitez</h1>
     <h2>💻 Desarrollador Web Junior | Python | Java | HTML | JavaScript | SQL</h2>
   </header>
 
   <main>
+    <!-- 👇 Aquí comienza tu parte -->
     <section class="about fade-in">
       <h3>👋 Sobre mí</h3>
       <p>
-        Soy un <strong>desarrollador web junior</strong> con formación en <strong>Python, SQL y desarrollo backend</strong>.  
+        Soy un <strong>desarrollador web junior</strong> con formación en <strong>Python, SQL y desarrollo backend</strong>.
         Me apasiona la automatización, el diseño de bases de datos y la creación de aplicaciones web funcionales con un toque profesional.
       </p>
     </section>
 
+    <!-- 🧠 Habilidades -->
     <section class="skills fade-in">
       <h3>🛠️ Habilidades</h3>
       <div class="badges">
@@ -42,7 +43,7 @@
       <div class="project-card">
         <h4>🧳 AgenciaViajes</h4>
         <p>
-          Un proyecto en <strong>Python</strong> con <strong>SQLAlchemy</strong> y <strong>SQLite</strong> que simula una agencia de viajes.  
+          Un proyecto en <strong>Python</strong> con <strong>SQLAlchemy</strong> y <strong>SQLite</strong> que simula una agencia de viajes.
           Permite gestionar destinos, clientes y reservas mediante un sistema de base de datos estructurado en tres archivos principales:
         </p>
         <ul>
@@ -76,7 +77,6 @@
       <h3>📫 Conecta conmigo</h3>
       <div class="links">
         <a href="https://www.linkedin.com/in/evaristo-benitez" target="_blank" class="btn">LinkedIn</a>
-        <!-- <a href="#" class="btn">Portafolio (próximamente)</a> -->
       </div>
     </section>
   </main>
